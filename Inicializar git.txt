@@ -1,0 +1,9 @@
+En la carpeta de codigo git bash
+
+En el codigo "git nit"
+
+"ls" 
+
+"git add ." Añadir todo
+
+"git status" nos dice si estan todos los archivos leyendose correctamente

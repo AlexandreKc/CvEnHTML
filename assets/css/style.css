@@ -1,0 +1,10 @@
+body{
+    padding: 20px 100px ;
+    font-family: "Roboto", sans-serif;
+
+}
+/* Las clases se llaman con un .
+   y el id (Codigo unico) Se llama con un # */
+.foto{
+    border-radius: 10px;
+}
